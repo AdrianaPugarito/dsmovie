@@ -1,5 +1,4 @@
 import { ReactComponent as Arrow} from 'assets/img/arrow.svg';
-import { truncate } from 'fs';
 import './style.css';
 
 function Pagination() {
